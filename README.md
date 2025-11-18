@@ -117,4 +117,4 @@ Essential for stock management and preventing over/under-stocking.
 - How does the average customer check vary by month?
 
 ---
-
+![Image Alt](https://github.com/Seenivaasan-J/Excel-Dashboard/blob/4a037d4a14761743f3e55cf3752d1f206e8e7b67/Excel%20Dashboard.png)
