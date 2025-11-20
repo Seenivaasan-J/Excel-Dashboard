@@ -1,10 +1,10 @@
-# Departmental Usage & Performance Dashboard  
+# Interior Design & Renovation Performance Dashboard
 ### Excel | Data Analysis | Business Intelligence
 
 ---
 
 ##  Overview  
-This project is a fully interactive **Excel-based Dashboard** designed to analyze **departmental usage**, **business performance**, and key operational metrics.  
+This project is a fully interactive **Excel-based Dashboard** designed to analyze **interior design**, **business performance**, and key operational metrics.  
 It provides actionable insights into sales, clients, products, and profitability through visually engaging charts and KPIs.
 
 The dashboard is built using **Excel formulas, PivotTables, slicers, charts, and custom UI design** to create a polished analytical report suitable for business presentations and decision-making.
